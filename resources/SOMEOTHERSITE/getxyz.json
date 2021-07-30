@@ -1,0 +1,13 @@
+{
+  "uri": "/posts",
+  "requestBody": {
+    "title": "foo",
+    "body": "bar",
+    "userId": 2,
+    "array": [
+      {
+        "index": 1
+      }
+    ]
+  }
+}

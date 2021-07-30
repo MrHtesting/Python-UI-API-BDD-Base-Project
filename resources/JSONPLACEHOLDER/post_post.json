@@ -1,0 +1,8 @@
+{
+  "uri": "/posts",
+  "requestBody": {
+    "title": "foo",
+    "body": "bar",
+    "userId": 2
+  }
+}
